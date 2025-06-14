@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, I'm Karanjot Singh</h1>
+<h3 align="center">aka Karanjot X • Full Stack Dev • UI/UX Designer • Android Engineer • Ethical Hacker</h3>
 
-<!--
-**kkji21/kkji21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kkji21&label=Profile%20views&color=blue&style=flat" alt="kkji21" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔭 I’m currently building: Event Management System, Stock Dashboard & Cool UI projects.
+- 🧠 Passionate about creating sleek user experiences using Figma, Tailwind & Framer Motion.
+- 💡 Constantly learning: Next.js, Prompt Engineering & Hacking tools.
+- 🎯 Goal: Build products that are **beautiful, secure, and fast**.
+
+---
+
+## 🛠️ Tech Stack
+
+```bash
+💻 Languages: JavaScript, TypeScript, Java, HTML, CSS  
+🧠 Backend: Node.js, Express, MongoDB, MySQL  
+📱 Android: Java, XML, Firebase  
+🎨 Design: Figma, Canva, Framer Motion  
+🧪 Tools: Git, GitHub, JWT, Linux, Burp Suite, Metasploit
